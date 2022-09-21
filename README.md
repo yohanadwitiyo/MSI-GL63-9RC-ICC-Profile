@@ -15,6 +15,6 @@ icc		: MSI GL63 9RC-20220920
 
 folder		: C:\Windows\System32\spool\drivers\color
 
-brightness	: -5 from max brightness
+brightness	: -5 from max brightness using keyboard shortcut or 50% Brightness from windows
 
 Note : This calibration is done by a service, so I don't know if it will all be correct
